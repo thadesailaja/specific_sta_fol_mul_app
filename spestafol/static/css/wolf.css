@@ -1,0 +1,12 @@
+body{
+    background-color: black;
+    color: coral;
+    text-align: center;
+}
+h1{
+    font-style: unset;
+}
+img{
+    width: 400px;
+    box-shadow: 5px 5px 5px white;
+}
